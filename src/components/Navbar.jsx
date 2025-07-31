@@ -62,7 +62,7 @@ const Navbar = () => {
               <span className="text-white font-bold text-sm">M</span>
             </div>
             <span className="text-white font-bold text-xl lg:text-2xl">
-              <span className="text-blue-400">MERA</span> Ventures
+              <span className="text-blue-400">MIRA</span> Ventures
             </span>
           </motion.div>
 

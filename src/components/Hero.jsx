@@ -225,7 +225,7 @@ const Hero = () => {
               className="text-4xl sm:text-5xl lg:text-7xl font-display font-bold text-white mb-4 lg:mb-6 tracking-tight"
             >
               <span className="gradient-text">
-                MERA VENTURES
+                MIRA VENTURES
               </span>
             </motion.h1>
             

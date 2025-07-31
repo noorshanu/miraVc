@@ -43,7 +43,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-sm">M</span>
               </div>
               <span className="text-white font-bold text-xl">
-                <span className="text-blue-400">MEXC</span> Ventures
+                <span className="text-blue-400">MIRA</span> Ventures
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
@@ -181,7 +181,7 @@ const Footer = () => {
           className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center"
         >
           <p className="text-gray-400 text-sm">
-            © 2024 MEXC Ventures. All rights reserved.
+            © 2025 MIRA Ventures. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-blue-400 text-sm transition-colors duration-200">
